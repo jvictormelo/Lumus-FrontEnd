@@ -1,4 +1,4 @@
-# Lumus — Frontend 📚
+# Lumus — Frontend 
 
 Interface web do sistema de gestão de leitura pessoal Lumus, desenvolvida em React + Vite.
 
